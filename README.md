@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sjkng
+- 👋 Hi, my name is Stefan.
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning C++, Java, JavaScript, Spring.
 - 💞️ I’m looking to collaborate on great projects.
