@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Stefan.
+- 👋 Hello, my name is Zburlea Stefan.
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning C++, Java, JavaScript, Spring.
 - 💞️ I’m looking to collaborate on great projects.
