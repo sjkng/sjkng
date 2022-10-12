@@ -1,6 +1,6 @@
 - 👋 Hello, my name is Zburlea Stefan.
 - 👀 I’m interested in software development.
-- 🌱 I’m currently learning C++, Java, JavaScript, Spring.
+- 🌱 I’m currently learning C++, Java, JavaScript, HTML.
 - 💞️ I’m looking to collaborate on great projects.
 - 📫 How to reach me zburleastefan@yahoo.com
 
